@@ -114,7 +114,7 @@ ubuntu@ubuntu-focal:~/test/question_1$
 -    GitHub repository: `Apache-AGE`
 -    Directory: `question_1`
 
-**NB:** There is an error in the provided output, where the Fibonacci value of 4 is given as **2**, but the correct Fibonacci value for 4 is **3**, which is reflected in the program's output.
+**NB:** There is an error in the provided output, where the Fibonacci value of 4 is given as `2`, but the correct Fibonacci value for 4 is `3`, which is reflected in the program's output.
 
 How to Compile and Run
 ----------------------
