@@ -108,7 +108,7 @@ How to Compile and Run
 
 ```
 git clone https://github.com/Anto236/Apache-AGE.git
-cd question_2
+cd Apache-AGE/question_2
 ```
 
 3.  Compile the C files using gcc:
