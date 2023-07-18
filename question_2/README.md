@@ -9,11 +9,16 @@ Bitnine_Apache_AGE_2023_Internship_Program.pdf
 Requirements
 ------------
 
+### Development Environment:
+-   OS: Ubuntu 22.04
+-   Compiler: GCC (GNU Compiler Collection) version 11.1.0
+
+
 ### General
 -    Used editor `vi`
 -    Files compiled on Ubuntu 22.04 using `gcc`, using the options `-Wall -Werror -Wextra -pedantic -std=gnu99`
 -    code uses the `Betty` style. Itis checked using [betty-style.pl](https://github.com/holbertonschool/Betty/blob/master/betty-style.pl "betty-style.pl") and [betty-doc.pl](https://github.com/holbertonschool/Betty/blob/master/betty-doc.pl "betty-doc.pl")
--    The prototypes of all your functions and the prototype of the functions are included in your header file called `mt_math.h`
+-    The prototypes of all your functions and the prototype of the functions are included in your header file called `my_math.h`
 -    All header files are include guarded
 
 Question 2
